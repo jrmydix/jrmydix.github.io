@@ -1,2 +1,2 @@
 # jrmydix.github.io
-Adaptation of my personnal website, without contact section, for github.io page
+My github.io page, find more about me at https://jeremy-cusinmermet.xyz/
